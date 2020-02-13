@@ -4,7 +4,6 @@ Execution:
 This Project has been designed to be compiled and run with Dev-C++ 5.11.
 
 Description:
-SOFTWARE DESIGN AND IMPLEMENTATION
 
 Write a C program to manage the components of a set of cars that will allow the user to view the details of already registered cars, import new cars and search for cars that meet certain specifications. More specifically, for each car there are the following items:
 
